@@ -12,3 +12,4 @@ I don't have too many projects yet, but do take a look if you're interested. I'l
 - Main focus right now is the advent of code 2024
 - Weekly projects for college but repos are private for now
 - Project Euler (not stored in a repo)
+- Geode-SDK modding framework for Geometry Dash
