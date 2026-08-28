@@ -1,7 +1,7 @@
 <p align="left"><img src="resx/yanami-banner.png" align="middle" width="70%"/></p>
 
 <h1 style="text-align: center">🌸 こんにちわ !! 🌸</h1>
-I'm naiquire, an undergraduate computer science student and aspiring game developer. I like reading light novels, watching anime, and occasionally I'll pick up a pencil. Sometimes I get some free time, which usually ends up with me playing osu! or something, but occasionally I'll do some programming.
+I'm naiquire, an undergraduate computer science student and aspiring game developer. I like reading light novels, watching anime, and sometimes I'll pick up a pencil. I usually spend my time tweaking my Hyprland configuration or playing osu!, but occasionally I'll do some programming.
 <br><br>
 
 <p align="left">
