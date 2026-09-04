@@ -4,6 +4,8 @@
 I'm naiquire, an undergraduate computer science student and aspiring game developer. I like reading light novels, watching anime, and sometimes I'll pick up a pencil. I usually spend my time tweaking my Hyprland configuration or playing osu!, but occasionally I'll do some programming.
 <br><br>
 
+<img src="resx/yanami-1.png" align="right" width="40%"/>
+
 <p align="left">
     <a href="https://discord.com/users/766302701142933504">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
@@ -19,7 +21,7 @@ I'm naiquire, an undergraduate computer science student and aspiring game develo
     </a>
 </p>
 
-<img src="resx/yanami-1.png" align="right" width="40%"/>
+
 
 I've got a few neat repositories here but they're mostly personal
 projects, such as my platformer engine built with the Monogame
@@ -29,7 +31,7 @@ There's also my NEA for A-level computer science which I'm pretty
 proud of, consisting of websockets, game design, and a neural
 network.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=naiquire&custom_title=naiquire%27s%20statistics&show_icons=true&include_all_commits=true&theme=rose_pine)](https://github-stats-extended.vercel.app/api?username=naiquire&custom_title=naiquire%27s%20statistics&show_icons=true&include_all_commits=true&theme=rose_pine)
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=naiquire&custom_title=naiquire%27s%20statistics&show_icons=true&include_all_commits=true&theme=rose_pine)](https://github-stats-extended.vercel.app/api?username=naiquire&custom_title=naiquire%27s%20statistics&show_icons=true&include_all_commits=true&theme=rose_pine) -->
 
 <!-- <br clear="right"><br> -->
 
